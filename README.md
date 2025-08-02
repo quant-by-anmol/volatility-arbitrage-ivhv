@@ -120,4 +120,4 @@ Win Rate              : 64.41%
 
 ---
 
-*Built by Anmol Aggarwal — [anmol@quantdev.com](mailto:anmol@quantdev.com)*
+*Built by Anmol Aggarwal — [guyfin215@gmail.com](mailto:guyfin2152gmail.com)*
