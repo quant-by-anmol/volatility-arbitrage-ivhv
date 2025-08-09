@@ -11,3 +11,6 @@ $PY scripts/update_data.py --price SPY --iv ^VIX --start 2015-01-01 --out data/b
 $PY main_backtest.py
 
 echo "[OK] $(date) — data updated + backtest run"
+
+# truncate log if >1MB
+[ -f logs/update.log ] && [ $(wc -c < logs/update.log) -gt 1048576 ] && tail -n 1000 logs/update.log > logs/update.tmp && mv logs/update.tmp logs/update.log
