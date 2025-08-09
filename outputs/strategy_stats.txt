@@ -1,9 +1,9 @@
-Total Return          : 25642.2924
-Annualized Return     : 142.6815
-Annualized Volatility : 7184.9634
-Sharpe Ratio          : 3.8108
-Sortino Ratio         : 21.9511
-Max Drawdown          : 2499.8991
-Calmar Ratio          : 0.0571
-Number of Trades      : 236
-Win Rate              : 0.6441
+Total Return: 2.208718223135195
+Annualized Return: 0.08170127059680943
+Annualized Volatility: 0.16457696189732182
+Sharpe Ratio: 1.3128827903244573
+Sortino Ratio: 1.779314274635293
+Max Drawdown: 0.2311035671187156
+Calmar Ratio: 0.3535266530734262
+Number of Trades: 2577
+Win Rate: 0.546371750097012
